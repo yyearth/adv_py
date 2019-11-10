@@ -1,4 +1,4 @@
-# Advanced Programming Notes of Advanced Programming in Python3
+# Notes of Advanced Programming in Python3
 
 
 
